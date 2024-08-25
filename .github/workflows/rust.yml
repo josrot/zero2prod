@@ -1,5 +1,5 @@
 name: Rust
-
+run-name: Building application
 on:
   push:
     branches: [ $default-branch ]
